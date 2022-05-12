@@ -1,7 +1,8 @@
 // code Here
+// function List({ carName, color, qty }) {
 function List(props) {
 
-    console.log(props);
+    // console.log(props);
 
     const { carName, color, qty } = props
     return (
