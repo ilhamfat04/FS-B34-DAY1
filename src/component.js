@@ -7,8 +7,7 @@ function Component() {
   return (
     //   Code Here
     <div>
-      <Header />
-      <Content />
+      <Button />
       <Header />
       <Button />
     </div>
